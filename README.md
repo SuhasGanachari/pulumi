@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # AWS Python S3 Bucket Pulumi Template
 
  A minimal Pulumi template for provisioning a single AWS S3 bucket using Python.
@@ -90,3 +91,6 @@
  - GitHub Issues: https://github.com/pulumi/pulumi/issues
 
  Contributions and feedback are always welcome!
+=======
+# pulumi
+>>>>>>> a401f4213eca2a9a3ce4492f08e6c5defb880d56
