@@ -1,0 +1,6 @@
+name: pulumi-aws-infra
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Minimal Pulumi project (VPC + EC2) with GitHub Actions
